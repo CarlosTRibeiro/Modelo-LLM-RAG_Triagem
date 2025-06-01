@@ -1,0 +1,89 @@
+Scenario: Mental Health Crisis
+Tags: psychiatric, mental health, crisis, self-harm, aggression, agitation, psychosis, suicide, behavioural
+
+Description:
+Triage flow for psychiatric and behavioural emergencies. Includes everyday phrasing so the assistant can match patient language with clinical discriminators and guides assessment from imminent life-threatening risk to non-urgent presentations.
+
+Glossary Terms Used:
+
+- Airway obstruction (also “I can’t breathe,” “choking feeling”)
+- Inadequate breathing (also “gasping,” “shallow breaths”)
+- Shock (also “feeling faint,” “cold, clammy skin”)
+- Sudden alteration of consciousness (also “I just blacked out,” “I felt gone for a moment”)
+- High risk of harming others (also “I want to hurt someone,” “I feel like attacking”)
+- High self-harm risk (also “I plan to kill myself,” “I’ve bought the pills”)
+- Moderate risk of harming others (also “I feel angry and tense,” “I threatened someone but didn’t act”)
+- Moderate self-harm risk (also “I sometimes think about hurting myself,” “I have urges but no plan”)
+- Psychomotor agitation (also “I can’t sit still,” “pacing nonstop”)
+- Disturbing behavior (also “I’m shouting at people,” “I’m scaring others around me”)
+
+Specific Discriminators:
+Red:
+
+- Airway obstruction (“I can’t breathe at all”)
+- Inadequate breathing (“I’m barely breathing”)
+- Shock (“I feel cold, clammy, and dizzy”)
+- Sudden alteration of consciousness (“I lost awareness for a moment”)
+
+Orange:
+
+- High risk of harming others (“I’m going to kill someone”)
+- High self-harm risk (“I plan to kill myself tonight”)
+
+Yellow:
+
+- Moderate risk of harming others (“I threatened my coworker but didn’t do it”)
+- Moderate self-harm risk (“I want to hurt myself but haven’t chosen how”)
+- Psychomotor agitation (“I can’t stop pacing and wringing my hands”)
+- Disturbing behavior (“I’m yelling and disrupting everyone”)
+
+Green:
+
+- No specific psychiatric criteria; assigned when none of the above are present
+
+Measurement Notes:
+
+- Check respiratory rate and blood pressure to rule out medical causes of agitation
+- Use Glasgow Coma Scale if altered consciousness is reported
+
+Examples of Patient Questions:
+
+- “How often have you had thoughts of harming yourself or others?”
+- “Can you describe any recent changes in your alertness or awareness?”
+- “Have you felt unusually restless or unable to sit still?”
+
+Age & Comorbidity Adjustments:
+
+- Elderly may mask agitation; look for subtle pacing or restlessness
+- Chronic psychiatric patients may present with muted or atypical symptoms
+
+Immediate Interventions:
+
+- Ensure safety of patient, staff, and bystanders
+- Engage security or law enforcement if aggression is imminent
+- Consider chemical restraint only if agitation poses immediate risk
+- Arrange urgent psychiatric evaluation or liaison
+
+Associated Sign Checklist:
+
+- Clenched fists or tense posture
+- Verbal threats or aggressive language
+- Inability to follow simple instructions
+- Excessive pacing, hand-wringing, or outbursts
+
+Quick Protocol Links:
+
+- Follow local violent incident management protocol
+- Consult Mental Health Rapid Assessment Team for suicide risk
+
+Brief Case Examples:
+Case A: 28-year-old with detailed suicide plan and means available → ORANGE
+Case B: 45-year-old pacing and shouting but no intent to harm → YELLOW
+
+Documentation Notes:
+
+- Record time and outcome of risk assessment
+- Document any de-escalation techniques used
+- Note referrals made to psychiatric services
+- Record medications or restraints administered
+

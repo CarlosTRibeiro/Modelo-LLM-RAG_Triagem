@@ -1,0 +1,96 @@
+Scenario: Palpitations
+Tags: cardiac, palpitations, arrhythmia, tachycardia, bradycardia, syncope, overdose, poisoning
+
+Description:
+Triage flow for patients who notice their heart beating abnormally. Includes common patient phrases so the assistant can match how people describe palpitations with clinical discriminators. Covers life-threatening arrhythmias to benign, resolved episodes.
+
+Glossary Terms Used:
+
+- Airway obstruction (also “I can’t breathe,” “choking feeling”)
+- Inadequate breathing (also “gasping,” “can’t catch my breath”)
+- Shock (also “cold, clammy skin,” “I feel faint”)
+- Chest pain (also “pressure,” “tightness,” “burning”)
+- Acute dyspnea (also “sudden breathlessness,” “I’m gasping”)
+- Abnormal pulse (HR < 60 or > 100 or irregular; “my heart is racing,” “it’s skipping beats”)
+- Adult hot (fever ≥ 37.5 °C; “I feel hot and sweaty”)
+- Adult very hot (fever ≥ 38.5 °C; “I’m burning up”)
+- History of overdose or poisoning (also “I took too many pills,” “I was poisoned”)
+- Sudden alteration of consciousness (also “I blacked out,” “I felt gone for a moment”)
+- Seizuring (active tonic-clonic movements; “I’m having a fit”)
+- Recent event (≤ 14 days; “I had surgery last week”)
+
+Specific Discriminators:
+Red:
+
+- Airway obstruction (“I can’t breathe at all”)
+- Inadequate breathing (“I’m barely breathing”)
+- Shock (“My skin is cold and clammy, I feel faint”)
+- Sudden alteration of consciousness (“I just blacked out”)
+
+Orange:
+
+- Abnormal pulse (“My heart is racing at 150 bpm,” “It skips beats”)
+- Chest pain (“I feel tight pressure in my chest”)
+- Acute dyspnea (“All of a sudden I can’t catch my breath”)
+- History of overdose or poisoning (“I swallowed a bottle of pills”)
+- Adult very hot (“My temperature is 39 °C and I’m shaking”)
+- Seizuring (“I’m having convulsions right now”)
+
+Yellow:
+
+- Ongoing palpitations at assessment (“I can still feel my heart pounding”)
+- History of unconsciousness (syncope; “I fainted last night”)
+- History of cardiac disease (“I have atrial fibrillation,” “I’ve had a pacemaker”)
+- Adult hot (“I have a mild fever of 37.8 °C”)
+
+Green:
+
+- Recent event (≤ 14 days; “I had a bad panic attack two days ago”)
+- No current palpitations and stable vitals (“My heart feels normal now”)
+
+Measurement Notes:
+
+- “Count your pulse for 60 seconds if irregular, or 15 seconds×4 if regular.”
+- “Is your temperature above 38.5 °C or above 37.5 °C?”
+- “Check your respiratory rate and oxygen saturation to rule out breathing issues.”
+
+Examples of Patient Questions:
+
+- “Is my heart still racing right now?”
+- “Have you ever felt lightheaded when it raced?”
+- “Do you have any history of heart problems?”
+
+Age & Comorbidity Adjustments:
+
+- Elderly may not feel palpitations but show hypotension—watch BP closely.
+- Patients on beta-blockers may not mount a high heart rate.
+
+Immediate Interventions:
+
+- Attach ECG monitor and obtain 12-lead ECG promptly.
+- If unstable (hypotension, chest pain), prepare for synchronized cardioversion.
+- In suspected overdose, consider activated charcoal and call toxicology.
+
+Associated Sign Checklist:
+
+- Blood pressure < 90/60 mmHg
+- Altered mental status or syncope
+- Diaphoresis and pallor
+- Agitation or confusion (possible toxidrome)
+
+Quick Protocol Links:
+
+- “Follow ACLS tachyarrhythmia algorithm if unstable.”
+- “Refer to toxicology protocol for overdose management.”
+
+Brief Case Examples:
+Case A: 25-year-old with new-onset atrial fibrillation, BP 80/50 mmHg → RED
+Case B: 45-year-old with occasional skipped beats, normal vitals → GREEN
+
+Documentation Notes:
+
+- Record heart rate and rhythm (regular vs irregular)
+- Time and result of first ECG
+- Any antiarrhythmic or sedative medications given
+- Vital signs at triage and after interventions
+

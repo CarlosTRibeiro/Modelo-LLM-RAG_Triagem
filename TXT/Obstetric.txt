@@ -1,0 +1,97 @@
+Scenario: Obstetric Emergency
+Tags: obstetric, pregnancy, labor, bleeding, eclampsia, hemorrhage, cord prolapse, fetal presentation
+
+Description:
+Triage flow for pregnant patients presenting with obstetric complications. Uses patient-friendly language so the assistant can match what a pregnant person might say with clinical discriminators. Covers life-threatening emergencies to non-urgent presentations.
+
+Glossary Terms Used:
+
+- Airway obstruction (also “I can’t breathe,” “choking feeling”)
+- Inadequate breathing (also “gasping,” “shortness of breath”)
+- Shock (also “feeling faint,” “cold, clammy skin”)
+- Heavy vaginal bleeding (also “soaking through pads fast,” “clots”)
+- Vaginal bleeding after 20 weeks (also “bleeding in late pregnancy”)
+- Fetal presentation (also “I can feel baby’s head at my cervix”)
+- Cord prolapse (also “I see the umbilical cord,” “cord hanging out”)
+- Active labor (also “I’m having contractions every few minutes”)
+- Sudden alteration of consciousness (also “I blacked out,” “I lost awareness”)
+- History of seizure (also “I had a fit six hours ago”)
+
+Specific Discriminators:
+Red:
+
+- Airway obstruction (“I can’t breathe at all”)
+- Inadequate breathing (“I’m gasping for air”)
+- Shock (“I feel cold, clammy, and dizzy”)
+- Heavy vaginal bleeding (“My pad is soaked in 15 minutes”)
+- Fetal presentation (“I can see baby’s crown at my vagina”)
+- Cord prolapse (“I see the cord coming out”)
+- Seizuring (“I’m having tonic-clonic movements”)
+
+Orange:
+
+- Active labor (≥ 3 painful contractions in 10 minutes; “I’m contracting every two minutes”)
+- Sudden alteration of consciousness (“I blacked out a moment ago”)
+- History of seizure within last 6 hours (“I had a seizure four hours ago”)
+- Vaginal bleeding after 20 weeks (“I’m bleeding at 32 weeks pregnant”)
+- Intense pain (≥ 8/10; “My belly pain is excruciating”)
+
+Yellow:
+
+- Moderate pain (4–7/10; “It’s a 5 out of 10”)
+- Mild vaginal bleeding (spotting; “Just pink spots on my pad”)
+- History of trauma within 24 h (“I fell two hours ago”)
+- History discordant (“My story doesn’t match what you see”)
+- Pain radiating to shoulder (“My shoulder hurts when I move”)
+
+Green:
+
+- Fever (maternal temperature ≥ 37.5 °C; “I feel hot, like I have a temperature”)
+- Mild recent pain (1–3/10, onset < 24 h; “It’s a 2 out of 10 that started today”)
+
+Measurement Notes:
+
+- “How many contractions did you have in the last ten minutes?”
+- “How many pads did you soak per hour?” (soaked every 15 min = heavy)
+- “Is your blood pressure above or below 140/90 mmHg?”
+
+Examples of Patient Questions:
+
+- “How many painful contractions have you had in the last ten minutes?”
+- “Are you bleeding, and how many pads do you use per hour?”
+- “Where exactly is your pain, and how bad is it?”
+
+Age & Comorbidity Adjustments:
+
+- Gestational diabetes or hypertension: monitor BP and glucose closely
+- Grand multiparity: may under-report labor pain intensity
+
+Immediate Interventions:
+
+- Cord prolapse: elevate presenting part and call obstetrician immediately
+- Heavy bleeding: establish two large-bore IV lines; begin fluids and blood products
+- Seizuring in pregnancy: give magnesium sulfate if eclampsia suspected
+
+Associated Sign Checklist:
+
+- Uterine tone and contraction strength
+- Fetal heart rate monitoring
+- Capillary refill > 2 s (sign of maternal shock)
+- Neurological signs (hyperreflexia, clonus)
+
+Quick Protocol Links:
+
+- “Administer MgSO₄ 4 g IV over 5–10 min per eclampsia protocol.”
+- “If cord prolapse, prepare for emergency cesarean.”
+
+Brief Case Examples:
+Case A: 32 weeks pregnant, cord visible at introitus → RED
+Case B: 38 weeks, mild spotting, no contractions → GREEN
+
+Documentation Notes:
+
+- Record gestational age, parity, and antenatal history
+- Document contraction frequency and strength
+- Note estimated blood loss and pad count
+- Record vital signs and any interventions performed
+

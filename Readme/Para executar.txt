@@ -1,0 +1,30 @@
+1 - Abrir a consola
+2 - cd C:\caminho da pasta
+3 - python RAG_TM_v1.py                --- Executa na consola
+  - RAG_MT_vMem.py                     --- Executa na consola a versao com memória
+  - streamlit run RAG_MT_Streamlit.py  --- Executa no Streamlit
+  - python RAG_MT_Gradio.py            --- devolve um IP, abrir ip no browser.
+
+TER O LLAMA A CORRER PARA EXECUTAR CORRETAMENTE.
+	- usar ollama pull llama2 antes de executar o programa.
+
+Instalar:
+
+pip install --upgrade pip setuptools
+pip install langchain-community
+pip install langchain-ollama
+pip install sentence-transformers
+pip install faiss-cpu
+pip install streamlit
+pip install gradio
+pip install langchain faiss-cpu sentence-transformers langchain-community langchain-ollama
+pip install unstructured[local-inference] 
+
+
+
+ollama pull llama2
+ollama run MODEL_NAME 
+
+outros modelos:
+ollama pull gema
+ollama pull phi

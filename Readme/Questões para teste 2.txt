@@ -1,0 +1,59 @@
+Clear RED – Chest Pain
+I have crushing central chest pain radiating to my left arm, started 10 minutes ago, I’m sweating and feel faint.
+
+Clear YELLOW – Chest Pain
+My chest hurts at level 5/10 when I take a deep breath, no radiation, vitals are normal.
+
+Borderline Chest Pain – Requires Follow-up
+I’ve had mild chest discomfort since yesterday after jogging, but I don’t know my pain score.
+
+Clear OUT-OF-SCOPE
+I have a rash with itchiness all over—what should I do?
+
+Animal Case
+My dog suddenly stopped breathing, can you help?
+
+Clear ORANGE – Adult Dyspnea
+I can’t catch my breath, using neck muscles, my SpO₂ is 88% on room air.
+
+Clear GREEN – Adult Dyspnea
+I’ve been wheezing lightly at night for two weeks and I cough up yellow sputum.
+
+Borderline Dyspnea – Follow-up Needed
+I feel a little short of breath when climbing stairs, but my oxygen was 95%.
+
+Clear RED – Mental Health Crisis
+I’m hearing voices telling me to kill myself and I have pills at home.
+
+Clear YELLOW – Mental Health Crisis
+Sometimes I think of hurting my roommate, but I haven’t planned it.
+
+Borderline Mental Health – Follow-up
+I feel restless and upset, but I’m not sure why.
+
+Clear ORANGE – Obstetric Emergency
+I’m 38 weeks pregnant, having 5 painful contractions in 10 minutes.
+
+Clear RED – Obstetric Emergency
+I felt my baby’s cord come out of my vagina just now.
+
+Borderline Obstetric – Follow-up
+I’m spotting lightly and don’t know how long I’ve been bleeding.
+
+Clear ORANGE – Palpitations
+My heart is racing at 160 bpm and I feel dizzy right now.
+
+Clear GREEN – Palpitations
+I felt a few skipped beats yesterday, now I’m fine.
+
+Borderline Palpitations – Follow-up
+Sometimes my heart flutters but my pulse is 80 and I’m okay.
+
+Missing Domain – Follow-up
+I have severe headache and blurred vision.
+
+Ambiguous First-Person
+I’m not sure, I just feel off—can you help?
+
+Complex Multi-criteria
+I’m short of breath, chest feels tight at 7/10, and I’ve vomited twice in an hour.
