@@ -1,8 +1,0 @@
-Description:
-System legal notice and safety disclaimer. Reminds that this tool implements only the Manchester Triage System for human patients, is not a substitute for professional medical evaluation, and that any RED classifications must prompt immediate in-person care.
-
-Legal Notice:
-This system implements the Manchester Triage System for human patients only.
-• It is NOT a substitute for clinical judgment or definitive medical evaluation.
-• Always refer “RED” patients to immediate in-person emergency care.
-• For all classifications, advise the patient to seek professional help if in doubt.
