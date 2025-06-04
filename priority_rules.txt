@@ -1,3 +1,7 @@
+# priority_rules.txt
+
+# Flags and measurements -> triage color
+
 Airway obstruction: RED
 Inadequate breathing: RED
 Shock: RED

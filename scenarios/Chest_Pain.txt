@@ -1,0 +1,81 @@
+Scenario: Chest Pain
+Tags: cardiac, thoracic, pain, adult, angina, chest discomfort, ischemia, acute coronary syndrome, pleuritic pain
+
+Description:
+Triage flow for adult patients presenting with chest pain. Includes everyday phrasing so the assistant can match patient language with clinical discriminators. Guides assessment from life-threatening cardiac emergencies to non-urgent mild discomfort.
+
+Glossary Terms Used:
+
+- Airway obstruction
+- Inadequate breathing
+- Shock
+- Chest pain
+- Acute dyspnea
+- Intense pain
+- Moderate pain
+- Pleuritic pain
+- Vomiting
+- History of cardiac disease 
+- Abnormal pulse
+- Sudden alteration of consciousness
+- Recent event 
+
+Specific Discriminators:
+Red:
+
+- Airway obstruction 
+- Inadequate breathing 
+- Shock 
+
+Orange:
+
+- Chest pain 
+- Acute dyspnea 
+- Intense pain 
+- History of overdose or poisoning 
+- Abnormal pulse 
+- Sudden alteration of consciousness
+
+Yellow:
+
+- Pleuritic pain 
+- Vomiting persistent 
+- History of cardiac disease 
+- Moderate pain 
+
+Green:
+
+- Vomiting non-persistent 
+- Mild recent pain 
+- Recent event 
+
+Age & Comorbidity Adjustments:
+
+- Elderly may under-report pain intensity.
+- Diabetics can present with “silent” (atypical) chest pain.
+
+Immediate Interventions:
+
+- Obtain ECG within 10 minutes.
+- Administer aspirin 300 mg if no contraindication.
+- Prepare IV access and consider nitrates if not hypotensive.
+
+Associated Sign Checklist:
+
+- Diaphoresis, nausea, lipothymia
+- Cool, clammy skin
+- Irregular or slow/fast pulse
+
+Quick Protocol Links:
+
+- “Follow ACS pathway if ECG shows ST-elevation.”
+- “If PE suspected, order D-dimer then CTPA per protocol.”
+
+Documentation Notes:
+Record in e-PR:
+
+- Pain score and character
+- Time and results of first ECG
+- Vital signs at triage and after interventions
+- Medications given (aspirin, nitrates)
+

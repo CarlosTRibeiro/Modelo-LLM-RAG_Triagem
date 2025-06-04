@@ -1,0 +1,411 @@
+Glossary of Key Symptoms
+
+
+Name: Airway obstruction
+Common phrases: “I feel like something is stuck,” “I can’t get any air,” “I’m choking.”
+Key criteria: Partial or complete blockage of the upper airway (mouth, throat, or voice box) that prevents air from reaching the lungs. Stridor or silent chest (no air entry). Inability to speak, cough, or swallow. Associated signs: Cyanosis, agitation, drooling, muffled voice.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: obstruction + silent chest + inability to speak → RED
+
+
+Name: Inadequate breathing
+Common phrases: “My breaths feel tiny,” “I’m gasping,” “I feel like I can’t fill my lungs.”
+Key criteria: Respiratory effort insufficient to maintain effective ventilation. Respiratory rate < 12 or > 20 breaths/min (adult; adjust for children). Shallow or gasping respirations. Use of accessory muscles. Associated signs: Hypoxia (SpO₂ < 90 %), tachycardia.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: RR > 30 + SpO₂ < 90 % → RED
+
+
+Name: Shock
+Common phrases: “I feel dizzy and cold,” “My hands are freezing,” “I think I might pass out.”
+Key criteria: Systemic hypoperfusion (systolic BP < 90 mmHg, capillary refill > 2 s, cool extremities, altered mental status). Clinical significance: Multi-organ dysfunction; high risk of death without rapid intervention.
+Urgency mapping: Isolated → RED
+
+
+Name: Stridor
+Common phrases: “It sounds like a seal when I breathe,” “My breathing is squeaky.”
+Key criteria: Systemic hypoperfusion (systolic BP < 90 mmHg, capillary refill > 2 s, cool extremities, altered mental status). Clinical significance: Multi-organ dysfunction; high risk of death without rapid intervention.
+Urgency mapping: Isolated → RED
+
+
+Name: Stridor
+Common phrases: “It sounds like a seal when I breathe,” “My breathing is squeaky.”
+Key criteria: High-pitched, monophonic sound, usually inspiratory, from turbulent airflow in the upper airway. Observation: Loud noise on inspiration, best heard over the neck. Associated signs: Drooling, hoarseness.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: Stridor + drooling + muffled voice → RED
+
+
+Name: Drooling
+Common phrases: “I can’t swallow, and it’s just spilling out,” “I have spit running down my face.”
+Key criteria: Uncontrolled pooling and dribbling of saliva due to inability to swallow. Observation: Saliva at lips; wet clothing; inability to swallow. Associated signs: Stridor, muffled voice, fever.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: Drooling + muffled voice + fever → RED
+
+
+Name: Hypoglycemia
+Common phrases: “I feel so shaky and weak,” “I’m sweating and dizzy,” “I need sugar now.”
+Key criteria: Blood glucose ≤ 55 mg/dL.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: Hypoglycemia + altered consciousness → RED
+
+
+Name: Exsanguinating hemorrhage
+Common phrases: (Not specified for exsanguinating hemorrhage. For hemoptysis: “I spit up blood,” “There’s blood in my cough.” For heavy vaginal bleeding: “I’m bleeding so much,” “I have giant clots”).
+Key criteria: (Not specified in the glossary, but indicates very large blood loss). For hemoptysis: quantify volume (mild < 30 mL/h; massive ≥ 200 mL/h).
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: Massive hemoptysis + hemodynamic instability → RED
+
+
+Name: Fetal presentation at vaginal opening
+Common phrases: “I can feel the baby’s head,” “Something hard is at the door.”
+Key criteria: Any fetal part visible at the vaginal opening. Clinical significance: High risk of cord prolapse; emergent delivery.
+Urgency mapping: Isolated → RED
+
+
+Name: Cord prolapse
+Common phrases: “The cord is coming out first,” “I felt something like a rope.”
+Key criteria: Umbilical cord descends through cervix ahead of presenting part. Clinical significance: Fetal hypoxia risk; immediate intervention.
+Urgency mapping: Isolated → RED
+
+
+Name: Seizuring
+Common phrases: “My body won’t stop shaking,” “I’m having a seizure.”
+Key criteria: Ongoing tonic-clonic movements or focal motor activity. Patients who are presenting tonic or clonic movements of a grand mal seizure or presenting partial seizure. Clinical significance: Risk of aspiration and status epilepticus.
+Urgency mapping: 
+Isolated → RED
+Red-flag combination: Seizure > 5 minutes + instability → RED
+
+
+Name: Precordial or cardiac chest pain
+Common phrases: “It feels like an elephant is sitting on my chest,” “I have a crushing feeling.”Definition includes pain in the center of the chest, which may radiate to the arm, neck, or jaw. Intense tightness or weight-like pain in the center of the chest, which may be radiating to the left arm or neck. May be associated with sweating, nausea, lightheadedness and/or epigastric pain.
+Key criteria: Intense chest pain, with potential radiation. May be associated with sweating, nausea, syncope.
+Urgency mapping: 
+Isolated → ORANGE
+Red-flag combination: Severe chest pain + hypotension → RED
+
+
+Name: Very low SpO₂ (< 90 % on room air or < 95 % with O₂)
+Common phrases: (Not listed in the glossary, but related to hypoxia).
+Key criteria: Oxygen saturation < 90 % on room air or < 95 % with oxygen therapy. Associated with inadequate breathing.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Broken sentences (unable to speak full phrases)
+Common phrases: (Not listed in the glossary).
+Key criteria: Patients with respiratory difficulty so significant they cannot articulate short sentences without needing another breath.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Hemoptysis
+Common phrases: “I spit up blood,” “There’s blood in my cough.”
+Key criteria: Coughing up fresh blood or blood-streaked sputum. Observation: Quantify volume (mild < 30 mL/h; massive ≥ 200 mL/h). Clinical significance: May indicate pulmonary hemorrhage, TB, malignancy, or embolism.
+Urgency mapping: 
+Isolated → ORANGE
+Red-flag combination: Massive hemoptysis + hemodynamic instability → RED
+
+
+Name: Significant respiratory history
+Common phrases: (Not listed in the glossary).
+Key criteria: Previous history of life-threatening respiratory conditions (e.g., COPD, brittle asthma, home O2 use or non-invasive ventilation).
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Acute onset post-trauma
+Common phrases: “After I fell, I couldn’t breathe,” “The pain began after the accident.”
+Key criteria: Symptoms starting within the first 24 hours after a physical injury. Clinical significance: Consider internal bleeding or compartment syndrome.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Abnormal pulse (bradycardia < 60 bpm or tachycardia > 100 bpm or irregular)
+Common phrases: “My heart is racing,” “It skips a beat,” “My pulse feels weird.”
+Key criteria: Heart rate < 60 bpm (bradycardia) or > 100 bpm (tachycardia), or irregular rhythm (adult). The definition for children should be according to age. Observation/Measurement: Palpate radial or carotid pulse for 15 s × 4; note rate and regularity. Associated signs: Hypotension; sweating; lightheadedness.
+Urgency mapping: 
+Isolated → ORANGE
+Red-flag combination: Irregular pulse + syncope → ORANGE
+
+
+Name: Sudden alteration of consciousness
+Common phrases: “I got confused out of nowhere,” “I can’t remember what just happened,” “I passed out.” Change in Glasgow Coma Scale within the previous 12h compared to previous state. If in doubt, assume altered consciousness.
+Key criteria: Acute change in Glasgow Coma Scale within previous 12h. Clinical significance: Possible stroke, hemorrhage, metabolic encephalopathy.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Respiratory exhaustion
+Common phrases: (Not listed in the glossary).
+Key criteria: Patients in respiratory exhaustion appear to reduce their respiratory effort despite remaining in respiratory insufficiency. It is pre-terminal.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Epigastric pain
+Common phrases: “My upper belly hurts,” “It feels like strong heartburn.”
+Key criteria: Discomfort in upper abdomen, often associated with nausea and sweating. Pain or discomfort in the epigastrium accompanied by nausea, sweating, feeling lightheaded. Clinical significance: May represent inferior MI, pancreatitis, or gastric perforation.
+Urgency mapping: Isolated → ORANGE
+Name: Very low peak expiratory flow (≤ 33 % predicted)
+Common phrases: (Related to low PEF: “My peak flow is low,” “I can’t blow as hard as before”).
+Key criteria: Peak Expiratory Flow (PEF) of 33% or lower of the best or predicted PEF. PEF is a measurement of how fast one can forcefully exhale.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: High risk of harming others
+Common phrases: “I’m going to kill someone,” “If they come near, I’ll hit them.”
+Key criteria: Imminent threat—tense posture, verbal threats, weapon access. Presence of a potential risk of harm to others which can be evaluated by observing posture (tense or with clenched fists), speech pattern (loud, threatening words) and psychomotor behavior (restlessness, pacing). High risk should be presumed if weapons and potential victims are nearby or if there was loss of self-control. Clinical significance: Requires security or chemical restraint.
+Urgency mapping: Isolated → ORANGE
+
+Name: High self-harm risk
+Common phrases: “I’m going to kill myself tonight,” “I already have the rope.”
+Key criteria: Active suicidal or self-injurious intent or plan. Initial evaluation of self-harm risk can be done by the patient's behavior. Someone with a significant history of self-harm, who is actively trying to hurt themselves or is trying to leave for that purpose, is at high risk. Clinical significance: Immediate psychiatric intervention needed.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Acute dyspnea
+Common phrases: “I just can’t breathe all of a sudden,” “It hit me fast—I can’t catch my breath.”
+Sudden shortness of breath or abrupt worsening of chronic shortness of breath.
+Key criteria: Sudden onset of breathlessness or abrupt worsening of chronic dyspnea. Marked use of accessory muscles; RR > 24 breaths/min; patient reports “I can’t catch my breath”. Associated signs: Chest pain, sweating. Clinical significance: May indicate pulmonary embolism, pneumothorax, acute heart failure or severe asthma exacerbation.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Intense pain (≥ 8/10)
+Common phrases: “It’s unbearable,” “I can’t even move.”
+Pain rated ≥ 8/10 on a numeric scale.
+Key criteria: Pain rated ≥ 8/10 on a numeric scale. Clinical significance: May signal MI, perforation, or strangulated hernia.
+Urgency mapping: 
+Isolated → ORANGE
+Red-flag combination: Intense pain + nausea + sweating → ORANGE
+
+
+Name: History of overdose or poisoning
+Common phrases: “I took too many pills,” “I think I poisoned myself.” 
+Ingestion or exposure to a toxic substance. This information can come from others or be inferred in the presence of empty pill boxes.
+Key criteria: Ingestion or exposure to a toxic substance. Clinical significance: Risk of multi-organ failure; may require decontamination or antidote.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: High fever in child (≥ 38.5 °C)
+Common phrases: (Related to fever in child: “My baby is hot,” “My child has a fever”). 
+Very hot child.
+Key criteria: Body temperature ≥ 38.5 °C (applied to adults in the glossary, but used to define high fever in children in the flowcharts). Fever in child is generally ≥ 38 °C (age-specific).
+Urgency mapping: Isolated → ORANGE
+
+
+Name: High fever in adult (≥ 38.5 °C)
+Common phrases: “I’m very hot,” “I have a high fever.”
+Very hot adult.
+Key criteria: Body temperature ≥ 38.5 °C. Clinical significance: Increased risk of dehydration and febrile seizures.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Active labour (≥ 3 contractions per 10 min)
+Common phrases: “My contractions are two minutes apart,” “I think my baby is coming.”
+Pregnant woman who has frequent and regular painful contractions.
+Key criteria: ≥ 3 painful, regular uterine contractions in 10 min. Clinical significance: Progression of labor; prepare for delivery.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Recent seizure (within last 6 h)
+Common phrases: “I had a fit this morning,” “I’ve had epilepsy for years.” 
+Observed or reported seizure that occurred during a period of illness or after trauma. For pregnant women, if there was a seizure in the previous six hours, it can mean eclampsia.
+Key criteria: Reported seizure within last 6 h. Clinical significance: Risk of recurrence; administer magnesium sulfate for eclampsia.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Heavy vaginal bleeding (soaked pad < 15 min)
+Common phrases: “I’m bleeding so much,” “I have giant clots.” 
+Vaginal bleeding is very difficult to quantify. Large clots or constant flow meet this criterion. Use of a large number of sanitary pads suggests heavy loss.
+Key criteria: Large blood loss with soaked pads or clots. Clinical significance: Risk of hemorrhagic shock.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Vaginal bleeding after 20 weeks gestation
+Common phrases: “I’m bleeding at seven months.”
+Any blood loss in the vagina in a woman known to be more than 20 weeks pregnant.
+Key criteria: Any bleeding in known pregnancy beyond 20 weeks. Clinical significance: Suggests placental abruption or previa.
+Urgency mapping: Isolated → ORANGE
+
+
+Name: Low SpO₂ (< 95 % on room air)
+Common phrases: (Not specified in the glossary, related to hypoxia).
+Key criteria: Oxygen saturation < 95 % on room air.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: History of hemoptysis
+Common phrases: (Related to Hemoptysis: “I spit up blood”).
+Key criteria: History of coughing up blood or blood-streaked sputum. Aerated blood expelled with the effort of coughing.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Pleuritic chest pain
+Common phrases: “It stabs me when I breathe,” “Every cough makes it hurt.” 
+Pain localized in the chest that worsens with breathing, coughing or sneezing.
+Key criteria: Sharp, stabbing chest pain worsened by deep inspiration or coughing. Clinical significance: Suggests pleural inflammation or embolism.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Low peak expiratory flow (≤ 50 % predicted)
+Common phrases: (Related to low PEF: “My peak flow is low,” “I can’t blow as hard as before”).
+Key criteria: Peak Expiratory Flow (PEF) of 50% or lower of the best or predicted PEF.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Significant psychiatric history
+Common phrases: (Not listed in the glossary).
+Key criteria: History of a significant psychiatric event or illness.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Moderate risk of harming others
+Common phrases: “I threatened my boss but didn’t do it,” “I feel like I might lash out.” 
+Key criteria: Signs of hostility without an immediate plan. Potential risk of harm to others observed by posture (tense or clenched fists), speech pattern (loud, threatening) and motor behavior (restlessness, pacing). Moderate risk should be presumed if there is any indication of potential aggression towards someone. Clinical significance: Urgent de-escalation and monitoring.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Moderate self-harm risk
+Common phrases: “Sometimes I think about hurting myself,” “I have urges but no plan.” Passive desire to self-injure without active plan. Initial evaluation of self-harm risk can be done by the patient's behavior. Someone with a significant history of self-harm, who is not actively trying to hurt themselves nor trying to leave for that purpose, but manifests a desire to hurt themselves, is at moderate risk.
+Key criteria: Passive desire to self-injure without active plan. Clinical significance: Safety planning and referral needed.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Psychomotor agitation
+Common phrases: “I can’t stop pacing,” “I feel jittery.” 
+Patients who are physically and/or emotionally very disturbed.
+Key criteria: Excessive motor activity—pacing, hand-wringing. Clinical significance: Risk of exhaustion or harm; de-escalation needed.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Disturbing behavior
+Common phrases: “I’m shouting at everyone,” “I’m scaring people.” 
+Behavior that affects the smooth running of the Service.
+Key criteria: Disruptive speech or actions threatening the care environment. Clinical significance: May require security intervention.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Persistent vomiting
+Common phrases: (Related to Vomiting: “I’ve been throwing up all morning”).
+Key criteria: Continuous vomiting or that occurs without relief between episodes.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Significant cardiac history
+Common phrases: (Not listed in the glossary).
+Key criteria: A known recurrent life-threatening arrhythmia or a heart disease that can rapidly deteriorate (coronary disease).
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Moderate pain (4–7/10)
+Common phrases: “It hurts a lot but I can cope.” 
+Pain rated 4–7/10.
+Key criteria: Pain rated 4–7/10 on a numeric scale. Clinical significance: Urgent evaluation needed but not immediate threat.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Current palpitations
+Common phrases: (Related to abnormal pulse: “My heart is racing”).
+Key criteria: Sensation of accelerated heart rate that is still present.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: History of unconsciousness
+Common phrases: “I fainted,” “I woke up on the floor.” 
+There should be a reliable witness to report if the patient lost consciousness and for how long. Otherwise, if the patient doesn't remember the incident, it should be presumed they were unconscious.
+Key criteria: Episode of syncope or blackout confirmed by a reliable witness. Clinical significance: Could be arrhythmia, neurocardiogenic syncope, or seizure.
+Urgency mapping: 
+Isolated → YELLOW
+Red-flag combination: Unexplained syncope + abnormal ECG → ORANGE
+
+
+Name: Fever in adult (≥ 37.5 °C)
+Common phrases: “I feel hot,” “I’m running a fever.” 
+Febrile.
+Key criteria: Body temperature ≥ 37.5 °C. Clinical significance: Sign of infection or inflammation; urgency dependent on context. High fever in adult is ≥ 38.5 °C.
+Urgency mapping: Isolated → YELLOW (When not classified as High Fever, which is Orange).
+
+
+Name: Abdominal pain
+Common phrases: “My stomach hurts,” “It’s cramping badly.” 
+Any pain in the abdomen, may radiate to back or shoulder.
+Key criteria: Any pain in the abdomen.
+Urgency mapping: Isolated → YELLOW (When not classified as Intense Abdominal Pain, which is Orange).
+
+
+Name: Elevated blood pressure
+Common phrases: (Not listed in the sources).
+Key criteria: Elevated systolic or diastolic blood pressure readings on examination.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Recent trauma
+Common phrases: (Related to acute onset post-trauma: “After I fell, I couldn’t breathe,” etc.). History of physical trauma. Recent event (infection, trauma) within the last 14 days.
+Key criteria: History of trauma.
+Urgency mapping: Isolated → YELLOW (Other trauma classifications can be Orange or Red depending on severity).
+
+
+Name: Discordant history
+Common phrases: (Not listed in the glossary).
+Key criteria: When the history provided does not explain the physical findings. It can be a marker of non-accidental injury in vulnerable children or adults, potentially a sentinel of abuse or mistreatment.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Shoulder-radiating pain
+Common phrases: (Not listed in the glossary).
+Key criteria: Pain felt at the tip of the shoulder. Generally indicates diaphragmatic irritation.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Moderate vaginal bleeding
+Common phrases: (Related to heavy vaginal bleeding).
+Key criteria: (Not specified in the glossary). Moderate vaginal bleeding.
+Urgency mapping: Isolated → YELLOW
+
+
+Name: Wheeze
+Common phrases: “My chest is whistling,” “It feels like breathing through a straw.” 
+Can be an audible wheeze or just a sensation of wheezing. More severe airway obstruction can be silent (no air passes).
+Key criteria: Continuous, musical, high-pitched sound, usually expiratory, from narrowed lower airways. Associated signs: History of asthma or COPD; use of inhalers. Clinical significance: Suggests bronchospasm.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Productive cough
+Common phrases: “I’m coughing up green/yellow spit,” “It’s a chesty cough.” 
+A respiratory infection generally causes a cough with sputum, often purulent (green or yellow).
+Key criteria: Cough that produces sputum (mucus). Observation: Note sputum color, consistency, and volume. Associated signs: Fever; pleuritic chest pain. Clinical significance: Often indicates bacterial lower respiratory infection.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Chest trauma
+Common phrases: “I bruised my chest,” “My ribs hurt after an accident.” O
+Any trauma below the clavicle and above the last rib. Trauma to the lower part of the chest can cause injury to abdominal organs.
+Key criteria: Blunt or penetrating injury between the clavicle and the last rib. Clinical significance: Risk of fractures, pneumothorax, internal injury.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Recent event (≤ 14 days)
+Common phrases: “I had surgery last week,” “I got sick two days ago.” 
+Any relevant event (infection, trauma) within the last 14 days.
+Key criteria: Any relevant event (infection, trauma) within the last 14 days. Clinical significance: Guides differential diagnosis.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Vomiting (non-persistent)
+Common phrases: “I’ve been throwing up all morning,” “I can’t stop puking.” 
+Forceful expulsion of gastric contents.
+Key criteria: Forceful expulsion of gastric contents. When not persistent (Persistent Vomiting is Yellow). Clinical significance: Risk of dehydration; electrolyte imbalance.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Mild recent pain (1–3/10, onset < 24 h)
+Common phrases: “It’s just a small ache,” “It only started today.” 
+Pain rated 1–3/10.
+Key criteria: Pain rated 1–3/10, onset within 24 h. Clinical significance: Non-urgent but monitor for progression.
+Urgency mapping: Isolated → GREEN
+
+
+Name: Fever (low-grade or unspecified)
+Common phrases: (Related to Fever in adult: “I feel hot,” “I have a fever”; Fever in child: “My baby is hot,” “My child has a fever”). 
+Febrile.
+Key criteria: Body temperature ≥ 37.5 °C (adult), or ≥ 38 °C (child, age-specific), when it does not meet the criteria for high fever.
+Urgency mapping: Isolated → GREEN

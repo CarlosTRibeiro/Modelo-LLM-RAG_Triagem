@@ -1,0 +1,74 @@
+Scenario: Mental Health Crisis
+Tags: psychiatric, mental health, crisis, self-harm, aggression, agitation, psychosis, suicide, behavioural
+
+Description:
+Triage flow for psychiatric and behavioural emergencies. Includes everyday phrasing so the assistant can match patient language with clinical discriminators and guides assessment from imminent life-threatening risk to non-urgent presentations.
+
+Glossary Terms Used:
+
+- Airway obstruction
+- Inadequate breathing
+- Shock
+- Sudden alteration of consciousness
+- High risk of harming others
+- High self-harm risk
+- Moderate risk of harming others
+- Moderate self-harm risk
+- Psychomotor agitation
+- Disturbing behavior
+
+Specific Discriminators:
+Red:
+
+- Airway obstruction
+- Inadequate breathing
+- Shock
+- Sudden alteration of consciousness
+
+Orange:
+
+- High risk of harming others
+- High self-harm risk
+
+Yellow:
+
+- Moderate risk of harming others
+- Moderate self-harm risk
+- Psychomotor agitation
+- Disturbing behavior
+
+Green:
+
+- No specific psychiatric criteria; assigned when none of the above are present
+
+Age & Comorbidity Adjustments:
+
+- Elderly may mask agitation; look for subtle pacing or restlessness
+- Chronic psychiatric patients may present with muted or atypical symptoms
+
+Immediate Interventions:
+
+- Ensure safety of patient, staff, and bystanders
+- Engage security or law enforcement if aggression is imminent
+- Consider chemical restraint only if agitation poses immediate risk
+- Arrange urgent psychiatric evaluation or liaison
+
+Associated Sign Checklist:
+
+- Clenched fists or tense posture
+- Verbal threats or aggressive language
+- Inability to follow simple instructions
+- Excessive pacing, hand-wringing, or outbursts
+
+Quick Protocol Links:
+
+- Follow local violent incident management protocol
+- Consult Mental Health Rapid Assessment Team for suicide risk
+
+Documentation Notes:
+
+- Record time and outcome of risk assessment
+- Document any de-escalation techniques used
+- Note referrals made to psychiatric services
+- Record medications or restraints administered
+

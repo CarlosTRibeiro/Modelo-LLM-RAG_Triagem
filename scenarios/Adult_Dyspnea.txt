@@ -1,0 +1,57 @@
+Scenario: Adult Dyspnea
+Tags: respiratory, adult, dyspnea, wheeze, COPD, asthma, embolism, pneumothorax
+
+Description:
+Triage flow for adult patients presenting with sudden or worsening shortness of breath.  
+Includes everyday phrasing so the assistant can match patient language directly.
+
+Glossary Terms Used:
+- Airway obstruction
+- Inadequate breathing
+- Stridor
+- Drooling
+- Shock
+- Acute dyspnea
+- Chest pain
+- Very low PEF
+- Low PEF
+- Wheeze
+- Productive cough
+- Chest trauma
+- Recent event
+
+Specific Discriminators:
+Red:
+  - Airway obstruction
+  - Inadequate breathing 
+  - Stridor 
+  - Drooling 
+  - Shock 
+
+Orange:
+  - Acute dyspnea
+  - Chest pain 
+  - Very low PEF
+  - Hemoptysis
+  - Exhaustion
+
+Yellow:
+  - Low PEF
+  - Pleuritic pain
+
+Green:
+  - Wheeze
+  - Productive cough 
+  - Chest trauma 
+  - Recent event
+
+Age & Comorbidity Adjustments:
+  - Elderly: “It’s normal to breathe up to 24 times a minute.”  
+  - Asthma/COPD: “Use your personal best for peak flow comparison.”
+
+Immediate Interventions:
+  - “Prepare high-flow oxygen if SpO₂ < 92%.”  
+  - “Give nebulizer within 15 minutes if patient has wheezing.”  
+  - “Secure IV access and monitor vitals continuously.”
+
+

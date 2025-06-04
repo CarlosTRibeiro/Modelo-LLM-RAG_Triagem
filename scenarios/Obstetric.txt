@@ -1,0 +1,71 @@
+Scenario: Obstetric Emergency
+Tags: obstetric, pregnancy, labor, bleeding, eclampsia, hemorrhage, cord prolapse, fetal presentation
+
+Description:
+Triage flow for pregnant patients presenting with obstetric complications. Uses patient-friendly language so the assistant can match what a pregnant person might say with clinical discriminators. Covers life-threatening emergencies to non-urgent presentations.
+
+Glossary Terms Used:
+- Airway obstruction
+- Inadequate breathing
+- Shock
+- Heavy vaginal bleeding
+- Vaginal bleeding after 20 weeks
+- Fetal presentation
+- Cord prolapse
+- Active labor
+- Sudden alteration of consciousness
+- History of seizure
+
+Specific Discriminators:
+Red:
+- Airway obstruction
+- Inadequate breathing
+- Shock
+- Heavy vaginal bleeding
+- Fetal presentation
+- Cord prolapse
+- Seizuring
+
+Orange:
+- Active labor
+- Sudden alteration of consciousness
+- History of seizure within last 6 hours
+- Vaginal bleeding after 20 weeks
+- Intense pain
+
+Yellow:
+- Moderate pain
+- Mild vaginal bleeding
+- History of trauma within 24h
+- History discordant
+- Pain radiating to shoulder
+
+Green:
+- Fever
+- Mild recent pain
+
+Age & Comorbidity Adjustments:
+- Gestational diabetes or hypertension: monitor BP and glucose closely
+- Grand multiparity: may under-report labor pain intensity
+
+Immediate Interventions:
+- Cord prolapse: elevate presenting part and call obstetrician immediately
+- Heavy bleeding: establish two large-bore IV lines; begin fluids and blood products
+- Seizuring in pregnancy: give magnesium sulfate if eclampsia suspected
+
+Associated Sign Checklist:
+- Uterine tone and contraction strength
+- Fetal heart rate monitoring
+- Capillary refill > 2 s (sign of maternal shock)
+- Neurological signs (hyperreflexia, clonus)
+
+Quick Protocol Links:
+- “Administer MgSO₄ 4 g IV over 5–10 min per eclampsia protocol.”
+- “If cord prolapse, prepare for emergency cesarean.”
+
+Documentation Notes:
+- Record gestational age, parity, and antenatal history
+- Document contraction frequency and strength
+- Note estimated blood loss and pad count
+- Record vital signs and any interventions performed
+
